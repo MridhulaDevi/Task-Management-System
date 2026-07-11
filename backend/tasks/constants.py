@@ -1,0 +1,3 @@
+USER_COLLECTION = "users"
+TASK_COLLECTION = "tasks"
+NOTIFICATION_COLLECTION = "notifications"
